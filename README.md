@@ -39,7 +39,6 @@
 ---
 
 ### 📫 Connect with me:
-https://www.linkedin.com/in/nirmal-jyothis-benny
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-jyothis-benny)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
