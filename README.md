@@ -1,6 +1,6 @@
 # My_Profile
-<h1 align="center">Hi 👋, I'm Nirmal Jyothis Benny</h1>
-<h3 align="center">A passionate frontend developer with 5 years of experience</h3>
+<h1 align="left">Hi 👋, I'm Nirmal Jyothis Benny</h1>
+<h3 align="left">A passionate frontend developer with 5 years of experience</h3>
 
 - 🔭 I’m currently working on **React.js and Vue.js**
 - 🌱 I’m currently learning **Node.js**
