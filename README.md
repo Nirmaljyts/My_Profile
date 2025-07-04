@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?&style=flat&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 ---
 
 ### 📊 GitHub Stats:
