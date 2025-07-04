@@ -26,9 +26,16 @@
 
 ### 📊 GitHub Stats:
 
-![Nirmal GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmal&show_icons=true&theme=radical)
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmal&show_icons=true&theme=radical&custom_title=Nirmal's%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmal&layout=compact&theme=radical)
+### 🧠 Top Used Languages:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ---
 
 ### 📫 Connect with me:
