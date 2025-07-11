@@ -1,4 +1,3 @@
-# My_Profile
 <h1 align="left">Hi 👋, I'm Nirmal Jyothis Benny</h1>
 <h3 align="left">A passionate frontend developer with 5 years of experience</h3>
 
